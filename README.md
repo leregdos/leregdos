@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, my name is Sodgerel (Sonny) Mandakhnaran! 👋
 
-<!--
-**leregdos/leregdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about learning new skills & languages, practising BJJ, and the intersecting arts with technology. I'm currently working as a Software Engineer II in Ulaanbaatar, Mongolia.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=js,python,ruby,php,dart,java,rails,express,flutter,appwrite,firebase,postgres,mysql,mongodb" title="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite" alt="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite" />
+
+## 🌐 Connect with me:
+
+[![website](https://img.shields.io/badge/web-A21432?style=for-the-badge&logo=globe&logoColor=white)](https://leregdos.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leregdos/)
+
+## 🌲 Stats
+
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=leregdos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+ 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leregdos&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+</div>
