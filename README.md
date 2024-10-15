@@ -1,6 +1,6 @@
 # Hello, my name is Sodgerel (Sonny) Mandakhnaran! 👋
 
-I'm passionate about learning new skills & languages, practising BJJ, and the intersecting arts with technology. I'm currently working as a Software Engineer II in Ulaanbaatar, Mongolia.
+I'm passionate about learning new skills & languages, practising BJJ, and intersecting arts with technology. I'm currently working as a Software Engineer II in Ulaanbaatar, Mongolia.
 
 ## 💻 Tech Stack
 
