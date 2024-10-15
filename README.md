@@ -4,7 +4,7 @@ I'm passionate about learning new skills & languages, practising BJJ, and inters
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,python,ruby,php,dart,java,rails,express,flutter,appwrite,firebase,postgres,mysql,mongodb" title="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite" alt="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite" />
+<img src="https://skillicons.dev/icons?i=js,python,ruby,php,dart,java,rails,express,flutter,appwrite,firebase,postgres,mysql,mongodb" title="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite, Firebase, PostgreSQL, MySQL, MongoDB" alt="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite, PostgreSQL, MySQL, MongoDB" />
 
 ## 🌐 Connect with me:
 
