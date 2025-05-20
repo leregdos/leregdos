@@ -1,10 +1,10 @@
 # Hello, my name is Sodgerel (Sonny) Mandakhnaran! 👋
 
-I'm passionate about learning new skills & languages, practising BJJ, and intersecting arts with technology. I'm currently working as a Software Engineer II in Ulaanbaatar, Mongolia.
+I'm passionate about learning new skills & languages, practising BJJ, and intersecting arts with technology. I'm currently working as a Software Engineer in Tokyo, Japan.
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,python,ruby,php,dart,java,rails,laravel,express,flutter,appwrite,firebase,postgres,mysql,mongodb" title="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, Appwrite, Firebase, PostgreSQL, MySQL, MongoDB" alt="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Laravel, Express, Flutter, Appwrite, PostgreSQL, MySQL, MongoDB" />
+<img src="https://skillicons.dev/icons?i=js,python,ruby,php,dart,java,rails,laravel,express,flutter,postgres,mysql,mongodb" title="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Express, Flutter, PostgreSQL, MySQL, MongoDB" alt="JavaScript, Python, Ruby, PHP, Dart, Java, Rails, Laravel, Express, Flutter, Appwrite, PostgreSQL, MySQL, MongoDB" />
 
 ## 🌐 Connect with me:
 
