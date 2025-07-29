@@ -17,5 +17,5 @@ I'm passionate about learning new skills & languages, practising BJJ, and inters
  
   <img src="https://github-readme-stats.vercel.app/api?username=leregdos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leregdos&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://git-hub-streak-stats.vercel.app?user=leregdos&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
 </div>
