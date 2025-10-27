@@ -1,6 +1,6 @@
 # Hello, my name is Sodgerel (Sonny) Mandakhnaran! 👋
 
-I'm passionate about learning new skills & languages, practising BJJ, and intersecting arts with technology. I'm currently working as a Software Engineer in Tokyo, Japan.
+I'm a NYU educated Software Engineer experienced in building B2B software solutions, well versed in several development mediums (web, mobile). I'm passionate about learning new skills & languages, practicing BJJ, and intersecting arts with technology. I'm currently based in Tokyo, Japan.
 
 ## 💻 Tech Stack
 
